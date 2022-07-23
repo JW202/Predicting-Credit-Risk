@@ -31,7 +31,9 @@ Random Forest however is ensemble-based learning algorithm, comprised of n colle
 Results:
 
 Logistic Regression model training data score = 0.9921240885954051 
+
 Logistic Regression model testing data score = 0.9918489475856377
 
 Random Forest Classifier model training data score = 0.9975409272252029 
+
 Random Forest Classifier model testing data score = 0.991642591828312
